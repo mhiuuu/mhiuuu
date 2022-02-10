@@ -1,3 +1,4 @@
+<p align="center"><img width="100%" src="./images/Banner.png" /></a></p>
 <h3>Hi there 👋 I'm Mike</h3>
 <p align="justify">I'm a young developer come from vietnam 🇻🇳🇻🇳🇻🇳 with a big fat dream of working in google. Feel free to contact me for anything (collaboration, issue, intership opportunities, ...). Discord for faster response because i rarely check my email 😳. Thanks for taking your time to read this shit, have a nice day!</p>
   <hr>
