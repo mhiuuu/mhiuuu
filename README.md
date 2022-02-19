@@ -19,6 +19,11 @@
 <a> <span><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></span> Bootstrap5</a>
   <hr>
   <hr>
+<h3 align="left">I'm learning:</h3>
+<a> <span><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-d3js-a-javascript-library-for-producing-dynamic-interactive-data-visualizations-in-web-browsers-logo-shadow-tal-revivo.png"/></span> D3</a>
+<a> <span><img src="https://img.icons8.com/ios/50/000000/jquery.png"/></span> Jquery</a>
+  <hr>
+  <hr>
 <h3 align="left">I'm interested in:</h3>
 <a>Reading books📚</a> <br>
 <a>Create cool things😎</a>
