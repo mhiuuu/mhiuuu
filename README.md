@@ -1,51 +1,59 @@
 <p align="center"><img width="100%" src="./images/Banner.png" /></a></p>
-<h3>Hi there 👋 I'm Mike</h3>
-<p align="justify">I'm a young developer come from vietnam 🇻🇳🇻🇳🇻🇳 with a big fat dream of working in google. Feel free to contact me about anything (collaboration, issue, intership opportunities, ...). Discord for faster response as I rarely check my email 😳. Thanks for taking your time to read this shit, have a nice day!</p>
-  <hr>
-  <hr>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="" height="30" width="40" /></a>
-</p>
-  <hr>
-  <hr>
-<h3 align="left">Languages and Tools:</h3>
-<a> <span><img src="https://img.icons8.com/color/48/000000/python--v1.png"/></span> Python</a>
-<a> <span><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/></span> Javascript</a>
-<a> <span><img src="https://img.icons8.com/color/48/000000/html-5.png"/></span> HTML5</a>
-<a> <span><img src="https://img.icons8.com/color/48/000000/css3.png"/></span> CSS3</a>
-<a> <span><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></span> Bootstrap5</a>
-  <hr>
-  <hr>
-<h3 align="left">I'm learning:</h3>
-<a> <span><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-d3js-a-javascript-library-for-producing-dynamic-interactive-data-visualizations-in-web-browsers-logo-shadow-tal-revivo.png"/></span> D3</a>
-<a> <span><img src="https://img.icons8.com/ios/50/000000/jquery.png"/></span> Jquery</a>
-  <hr>
-  <hr>
-<h3 align="left">I'm interested in:</h3>
-<a>Reading books📚</a> <br>
-<a>Create cool things😎</a>
-  <hr>
-  <hr>
-<h3 align="left">My github stats:</h3>
+<h1 align="center">Hi there 👋 I'm Mathew</h1>
+<h4 align="center">FULL STACK WEB DEVELOPER | COMPETITIVE PROGRAMMER</h4>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhiuuu)
+<br/>
 
+<div align="center">
+  <a> <span><img src="https://img.icons8.com/color/48/000000/python--v1.png"/></span> Python</a>
+  <a> <span><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/></span> Javascript</a>
+  <a> <span><img src="https://img.icons8.com/color/48/000000/html-5.png"/></span> HTML5</a>
+  <a> <span><img src="https://img.icons8.com/color/48/000000/css3.png"/></span> CSS3</a>
+  <a> <span><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></span> Bootstrap5</a>
+   
+</div>
 
+<br>
 
-<!--
-**mhiuuu/mhiuuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">About Me! (●'◡'●)</h1>
+<div align="center"> 
+  
+  🏫: I'm a 15 years old developer from Viet Nam.
+  
+  🔭: I’m currently learning competitive programming.
+  
+  🌱: I’m currently learning data structures and algorithms. 🖥
+  
+  🤡: My dream is to be a software engineer at Googleeee
+  
+  🤔: I’m also a content creator for some volunteer projects! 💪
+  
+  💬: Ask me anything about web development or internship =)
+  
+  ⚡  Fun fact: Despite of being a developer and a content creator, I make spelling mistake. 🙃
+  
+</div>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">My Github Statistics 📈</h1>
+
+<div align="center">
+
+  <img align="center" width="100%" src="http://github-readme-streak-stats.herokuapp.com?user=mhiuuu&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&background=22272E00&dates=A1A1AA&currStreakNum=FBBF24&ring=FBBF24&fire=FBBF24&sideNums=A1A1AA&currStreakLabel=FBBF24&sideLabels=FBBF24&stroke=FFFFFF51)](https://git.io/streak-stats" />
+    <img align="center" width="55%" src="https://github-readme-stats.vercel.app/api?username=mhiuuu&bg_color=22272e00&hide_border=true&text_color=A1A1AA&title_color=fbbf24&include_all_commits=true" />
+    <img align="center" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhiuuu&layout=compact&bg_color=22272e00&hide_border=true&text_color=A1A1AA&title_color=fbbf24" />
+</div>
+
+[![My Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=mhiuuu&bg_color=22272e00&hide_border=true&color=fbbf24&area_color=A1A1AA&title_color=fbbf24&line=fbbf24&point=A16207)](https://github.com/mhiuuu)
+
+<br/>
+
+<h1 align="center">Connect with me:</h1>
+<div align="center"
+  <p>
+  <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="" height="30" width="40"/></a>
+  <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+  <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="" height="30" width="40" /></a>
+  </p>
+</div>
