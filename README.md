@@ -44,7 +44,6 @@
     <img align="center" width="55%" src="https://github-readme-stats.vercel.app/api?username=mhiuuu&bg_color=22272e00&hide_border=true&text_color=A1A1AA&title_color=fbbf24&include_all_commits=true" />
     <img align="center" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhiuuu&layout=compact&bg_color=22272e00&hide_border=true&text_color=A1A1AA&title_color=fbbf24" />
 </div>
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=mhiuuu&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br/>
 
 <h1 align="center">Connect with me:</h1>
