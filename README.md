@@ -59,8 +59,6 @@ Here are some ideas to get you started:
     <img align="center" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhiuuu&layout=compact&bg_color=22272e00&hide_border=true&text_color=A1A1AA&title_color=fbbf24" />
 </div>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=mhiuuu&bg_color=787878&color=ffffff&line=ffffff&point=b0b6d4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <br/>
 
 <h1 align="center">Connect with me:</h1>
