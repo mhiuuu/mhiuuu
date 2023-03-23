@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
   💬: Ask me anything about web development or internship =)
 
-  ⚡  Fun fact: Despite of being a developer and a content creator, I make spelling mistake. 🙃
+  ⚡  Fun fact: Despite being a developer and a content creator, I make spelling mistakes. 🙃
 
 </div>
 
